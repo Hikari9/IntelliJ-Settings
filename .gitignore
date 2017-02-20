@@ -1,6 +1,9 @@
 options/
 plugins/
 tasks/
+fileTemplates/
+port
+settingsRepository
 disabled_plugins.txt
 port.lock
 user.token
