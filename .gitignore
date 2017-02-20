@@ -1,0 +1,6 @@
+options/
+plugins/
+tasks/
+disabled_plugins.txt
+port.lock
+user.token
